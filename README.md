@@ -47,7 +47,7 @@ PMO-SOX-Analytics/
 │   └── (coming soon)                # Table creation and query scripts
 │
 ├── powerbi/
-│   └── (coming soon)                # Power BI dashboard file
+│   └── PMO_SOX.pbix                # Power BI dashboard file
 │
 ├── powershell/
 │   └── (coming soon)                # Automation scripts
