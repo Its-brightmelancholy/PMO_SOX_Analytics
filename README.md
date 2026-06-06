@@ -97,12 +97,12 @@ Five interconnected tables modelling a real enterprise PMO and SOX environment:
 | Phase 2 | Project Architecture | ✅ Complete |
 | Phase 3 | Dataset Creation | ✅ Complete |
 | Phase 4 | Excel Analytics | ✅ Complete |
-| Phase 5 | SQL Queries | 🔄 In Progress |
-| Phase 6 | Power BI Dashboard | ⏳ Upcoming |
-| Phase 7 | DAX Measures | ⏳ Upcoming |
-| Phase 8 | PowerShell Automation | ⏳ Upcoming |
-| Phase 9 | Executive Dashboard | ⏳ Upcoming |
-| Phase 10 | Portfolio Finalization | ⏳ Upcoming |
+| Phase 5 | SQL Queries | ✅ Complete |
+| Phase 6 | Power BI Dashboard | ✅ Complete |
+| Phase 7 | DAX Measures | ✅ Complete |
+| Phase 8 | PowerShell Automation | ✅ Complete |
+| Phase 9 | Executive Dashboard | ✅ Complete |
+| Phase 10 | Portfolio Finalization | ✅ Complete |
 
 ---
 
